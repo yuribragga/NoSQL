@@ -1,10 +1,10 @@
 # Mercado Livre - MongoDB
 
-## Clone o projeto e acesse a branch `lista02`
+## Clone o projeto e acesse a branch `Ex2`
 ```bash
-git clone https://github.com/joycesilvaaa/NoSQL-BD.git
+git clone https://github.com/yuribragga/NoSQL.git
 cd NoSQL-BD
-git checkout lista02
+git checkout Ex2
 ````
 
 ## 1. Configuração do MongoDB
